@@ -14,7 +14,7 @@
 ## Configuração do ambiente de desenvolvimento!
 
 - Foi usado imagem docker do postgres, para banco de dados.
-- Foi usado o DBeaver com SGDB, para manutenção do banco postgres.
+- Foi usado o DBeaver com SGBD, para manutenção do banco postgres.
 - Foi usado o Insomnia para testas as rotas e testar as funcinalidades do CRUD.
 
 ---
